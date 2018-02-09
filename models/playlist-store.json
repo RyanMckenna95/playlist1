@@ -1,0 +1,88 @@
+{
+  "playlistCollection": [
+    {
+      "id":"01",
+      "title": "Beethoven Sonatas",
+      "duration":"41:32",
+      "songs": [
+        {
+          "id":"04",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration":"6:32",
+          "genre":"Classical"
+        },
+        {
+          "id":"05",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration":"5:21",
+          "genre":"Classical"
+        },
+        {
+          "id":"06",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration":"8:01",
+          "genre":"Classical"
+        }
+      ]
+    },
+    {
+      "id":"02",
+      "title": "Beethoven Concertos",
+      "duration":"53:37",
+      "songs": [
+        {
+          "id":"07",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration":"8:43",
+          "genre":"Classical"
+        },
+        {
+          "id":"08",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration":"10:21",
+          "genre":"Classical"
+        },
+        {
+          "id":"09",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration":"1:54",
+          "genre":"Classical"
+        }
+      ]
+    },
+    {
+      "id":"03",
+      "title": "The Incredible True Story",
+      "duration":"32:47",
+      "songs":[
+        {
+          "id":"10",
+          "title": "Fade Away",
+          "artist": "Logic",
+          "duration":"3:50",
+          "genre":"Hip-hop"
+        },
+        {
+          "id":"11",
+          "title": "City of Stars",
+          "artist":"Logic",
+          "duration":"3:12",
+          "genre":"Hip-hop"
+        },
+        {
+          "id":"12",
+          "title": "Like Woah",
+          "artist": "Logic",
+          "duration":"4:07",
+          "genre":"Hip-hop"
+        }
+        ]
+    }
+  ]
+}
